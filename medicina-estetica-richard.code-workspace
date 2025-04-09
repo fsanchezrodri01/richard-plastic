@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../tinypng_api"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "medicina-estetica-richard"
+  }
+}
